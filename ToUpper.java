@@ -1,3 +1,4 @@
+package com.example;
 public class ToUpper {
     public static void main(String[] args) {
         if (args.length > 0) {
