@@ -1,4 +1,4 @@
-
+package com.apasoft;
 public class ToUpper {
     public static void main(String[] args) {
         if (args.length > 0) {
