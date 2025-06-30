@@ -38,7 +38,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>ToUpper</mainClass>
+                            <mainClass>com.apasoft.ToUpper</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
